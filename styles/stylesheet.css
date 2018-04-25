@@ -7,3 +7,9 @@ h4 {
   font-family: 'kanit', sans-serif;
 }
 
+@media (max-width: 500px){
+  .cover-art {
+    height: 75%;
+    width: 75%;
+  }
+}
